@@ -1,5 +1,5 @@
 # Melodic-Chronicles
-2D Platformer game made in a week during the Game Jam 42-LeHavre 2023
+2D Platformer game made in a week during the Game Jam 42-LeHavre 2023 in collaboration with [Ldaniel](https://github.com/lolopss) and [Dgrandin](https://github.com/dgrandin)
 
 # Story
 In the kingdom of Harmonia, during the annual festival celebrating the art of music, a sudden calamity strikes.
