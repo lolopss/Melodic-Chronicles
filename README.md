@@ -1,5 +1,5 @@
 # 🎵 Melodic-Chronicles 🎮  
-2D Platformer game made with Unity C# in a week and winner 🏆 of the Game Jam 42-LeHavre 2023 in collaboration with [Ldaniel](https://github.com/lolopss) 👤 and [Dgrandin](https://github.com/dgrandin) 👤.  
+2D Platformer game made with Unity(C#) in a week and winner 🏆 of the Game Jam 42-LeHavre 2023 in collaboration with [Ldaniel](https://github.com/lolopss) 👤 and [Dgrandin](https://github.com/dgrandin) 👤.  
 
 ---
 
