@@ -16,3 +16,6 @@ Alternate between silence and melody to overcome the obstacles in your path, res
 
 # 🎮 Gameplay  
 Melodic Chronicles is a platformer 🏃‍♂️ based on the noise your character makes. Whether you run, walk, land after jumping, or play an instrument, the world resonates with the noise you make and moves accordingly.  
+
+https://github.com/user-attachments/assets/6ac05303-d23b-43fe-b776-6387102cb026
+
